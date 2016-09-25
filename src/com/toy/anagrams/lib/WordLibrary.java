@@ -38,7 +38,9 @@ public abstract class WordLibrary {
     /**
      * Constructor for subclasses.
      */
+    
     protected WordLibrary() {
+        System.out.println("Creació de branca: Prova");
     }
     
     /** Getter for the default implementation of the WordLibrary.
